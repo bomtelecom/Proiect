@@ -1,0 +1,8 @@
+io/github/mattshen/sbb/controller/UserController.class
+io/github/mattshen/sbb/repo/UserRepo.class
+io/github/mattshen/sbb/services/HelloworldService.class
+io/github/mattshen/sbb/model/User.class
+io/github/mattshen/sbb/controller/HelloworldController.class
+io/github/mattshen/sbb/Application.class
+io/github/mattshen/sbb/conf/AppConf$WebConfig.class
+io/github/mattshen/sbb/conf/AppConf.class
